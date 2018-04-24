@@ -46,7 +46,7 @@ let four = 4;
   Try inserting an incorrect signature for [floatFour] to see what error the
   compiler gives you.
  */
-let floatFour = 4.;
+let floatFour: float = 4.;
 
 /*
   Function signatures
@@ -66,11 +66,11 @@ let floatFour = 4.;
   value of the last statement in that function.
  */
 /* let intAverage = (x, y) => failwith("For you to implement"); */
-let intAverage = (x, y) => failwith("For you to implement");
+let intAverage = (x, y) => (x + y) / 2;
 
 /* let float_average : float -> float -> float */
 /* let floatAverage = (x, y) => failwith("For you to implement"); */
-let floatAverage = (x, y) => failwith("For you to implement");
+let floatAverage = (x, y) => (x +. y) /. 2.;
 
 /*
   The following expression computes the average of 10 and 20:
