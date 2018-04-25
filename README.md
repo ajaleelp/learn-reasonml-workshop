@@ -1,3 +1,5 @@
+*Warning:* This repo now contains excercise files which were 'completed/fixed' during the course of my study. If you wish to learn from scratch, please fork a fresh copy from [the original repo](https://github.com/protoship/learn-reasonml-workshop).
+
 # Introduction
 
 These exercises are originally from [a workshop organized by Jane Street](https://blog.janestreet.com/learn-ocaml-nyc/) for teaching `OCaml` to programmers who work in other languages and who do not necessarily have experience with functional languages. [Link to the original repo](https://github.com/janestreet/learn-ocaml-workshop).
